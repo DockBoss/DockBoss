@@ -12,6 +12,7 @@ What I am working on
 - Free Code Camp Responsive web design projects
 - Free Code Camp JavaScript algrothim projects
 - My personal portfolio
+- Company website
 - Small projects to fill my portfolio
 
 My Goals
