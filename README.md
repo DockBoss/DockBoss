@@ -12,9 +12,9 @@ Where I am learning
 - Youtube
 
 What I am working on
--calculator app most likely a web calculator
--crypto currency data tracker
--crypto trading bot
+- calculator app most likely a web calculator
+- crypto currency data tracker
+- crypto trading bot
 
 My Goals
 - Create my own projects that are a learning expierence but also a usefull tool
