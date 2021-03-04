@@ -3,7 +3,7 @@
 Im a new developer in the process of self teaching the skills I will need for my profession.
 
 Where I am Studying
--Austin Community College 
+- Austin Community College 
 
 Where I am learning
 - Free Code Camp
