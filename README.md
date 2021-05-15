@@ -1,25 +1,16 @@
 
 
-Im a new developer in the process of self teaching the skills I will need for my profession.
+I am a self taught developer.
 
-Where I am Studying
-- Austin Community College 
+My main foucs now is Blockchain.
 
-Where I am learning
-- Free Code Camp
-- Stack Overflow
-- W3Schools
-- Youtube
+I am working on learning solidity, truffle, and web3
 
-What I am working on
-- calculator app most likely a web calculator
-- crypto currency data tracker
-- crypto trading bot
+I am also working on leaning about the EVM and I am very interested in its direction. 
 
-My Goals
-- Create my own projects that are a learning expierence but also a usefull tool
-- find a job that I enjoy
-- Make enough money from my projects to have a little extra spending money
-- be happy
-
-My projects are not the best at the moment, but if you check back every once in a while you will be able to see improvement (maybe enough improvement for a job or internship wink wink)
+My short term goals are to 
+  Create usefull and efficent dapps
+  Become an Ethereum core developer
+  
+ 
+ 
