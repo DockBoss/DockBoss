@@ -1,6 +1,5 @@
 # About Me
-* QA at Nethermind
-* Amature Comedian
+* Unemployed Comedian
 # Don't Foget to Laugh
 * [Bill Hicks](https://www.youtube.com/results?search_query=bill+hicks)
 * [Bill Burr](https://www.youtube.com/results?search_query=bill+burr)
